@@ -1,1 +1,1 @@
-# DT-projects
+# simple calculater
